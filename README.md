@@ -29,9 +29,9 @@
 <h2>Team Members</h2>
 <li>Kumar shivam <a href="https://github.com/kumarshivam01">https://github.com/kumarshivam01</a></li>
 
-<li>Ashish Kumar Mohanty <a href="https://github.com/brajeshsaxena01">https://github.com/brajeshsaxena01</a></li>
+<li>Ashish Kumar Mohanty <a href="https://github.com/Ashish2403991">https://github.com/Ashish240399</a></li>
 
-<li>Kanishka Rajput <a href="https://github.com/Ashish240399">https://github.com/Ashish240399</a></li>
+<li>Brajesh Saxena <a href="https://github.com/brajeshsaxena01">https://github.com/brajeshsaxena01</a></li>
 
 <li>Ramkrishna keer <a href="https://github.com/Ramkrishna1597">https://github.com/Ramkrishna1597</a></li>
 
