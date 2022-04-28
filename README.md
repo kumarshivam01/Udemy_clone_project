@@ -1,6 +1,6 @@
 <h1># Udemy_clone_project</h1>
 <h2>Clone of Udemy</h2>
-<p>Udemy is an E-learning platform. we as a team of six members built the clone of udemy.com in 5 days.While building this project we have used HTML,CSS,Advance javascript and api </p>
+<p>It is a E-learning Platform and Choose from many topics, skill levels, and languages. Shop thousands of high-quality on-demand online courses. we as a team of six members built the clone of udemy.com in 5 days.While building this project we have used HTML,CSS,Advance javascript and api </p>
 
 <h2>How to run the app?</h2>
 <p>Clone the repo and open with the live-server</p>
