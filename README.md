@@ -24,7 +24,7 @@
 <li>Payment Page</li>
 <li>Checkout Page</li>
 <li>Filter Courses</li>
-<li>Search Page</li>
+<li>Search Page (first signup then search functionallity work</li>
 <br>
 <h2>Team Members</h2>
 <li>Kumar shivam <a href="https://github.com/kumarshivam01">https://github.com/kumarshivam01</a></li>
